@@ -1,4 +1,4 @@
-#Tell Me a Story 
+# Tell Me a Story 
 ## A Multimedia Journalism Project
 ### Summer 2020
 #### Reported by Sanjana Melkote
